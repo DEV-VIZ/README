@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vignesh Raj Mallick(VIZ)</h1>
 <h3 align="center">16 YEAR OLD NEWBIE</h3>
 
-<p align="left"> <a href="https://twitter.com/mallick_vignesh" target="blank"><img src="https://img.shields.io/twitter/follow/mallick_vignesh?logo=twitter&style=for-the-badge" alt="mallick_vignesh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/DEV-VIZ" target="blank"><img src="https://img.shields.io/twitter/follow/mallick_vignesh?logo=twitter&style=for-the-badge" alt="mallick_vignesh" /></a> </p>
 
 - 🌱 I’m currently learning **JAVASCRIPT(js)**
 
